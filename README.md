@@ -116,3 +116,24 @@ After importing Kali Linux into VirtualBox, I reviewed the virtual machine setti
 I saved the changes to apply the network configuration. This setup allows my Kali Linux virtual machine to connect to the designated NAT Network, making it possible to communicate with other virtual machines connected to the same network.
 
 <img width="957" height="787" alt="Image" src="https://github.com/user-attachments/assets/bfa181fb-853e-46a8-b5db-bb591b8ac389" />
+
+Here is a polished, natural version you can copy directly into your GitHub `README.md` file.
+
+## Step 6: Start Kali Linux and Configure a Consistent IP Address
+
+After configuring the virtual machine's network adapter, I started Kali Linux and prepared to configure a consistent IP address for the lab.
+
+Using a consistent IP address makes it easier to identify the Kali Linux machine and manage network communication during future cybersecurity exercises.
+
+### Network Configuration
+
+| Setting         | Value                 |
+| --------------- | --------------------- |
+| IP Address      | `10.0.0.2`            |
+| Subnet Mask     | `255.255.255.0 (/24)` |
+| Default Gateway | `10.0.0.1`            |
+| DNS Server      | `10.0.0.1`            |
+
+This configuration was intended to make the Kali Linux virtual machine easier to identify and access within the lab network.
+
+Important: Before applying these settings, confirm that `10.0.0.1` is the actual gateway address assigned to your VirtualBox NAT Network and that `10.0.0.2` is available. If DHCP is enabled, reserve the address or configure a suitable static IP to avoid address conflicts.
