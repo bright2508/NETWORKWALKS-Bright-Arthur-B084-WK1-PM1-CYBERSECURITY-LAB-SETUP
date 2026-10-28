@@ -40,3 +40,4 @@ I started by downloading 7-Zip from its official website and installed it on my 
 7-Zip is a file extraction tool that allows me to open and extract compressed files.
 It is particularly useful when working with Kali Linux files downloaded in a `.7z` archive format. After installation, I was ready to extract Kali Linux files whenever needed.
 
+<img width="1337" height="732" alt="Image" src="https://github.com/user-attachments/assets/35422e55-65b6-433a-8ce7-6f22902a7580" />
