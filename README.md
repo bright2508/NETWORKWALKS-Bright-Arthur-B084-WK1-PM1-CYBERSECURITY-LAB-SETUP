@@ -206,3 +206,12 @@ The four most important things I learned were:
 4. **Preparing for Practical Security Testing:** I developed a foundation for future cybersecurity exercises involving network discovery, scanning, and vulnerability assessment. I also learned the value of recording technical procedures and troubleshooting results for future reference.
 
 Overall, this project improved my confidence in working with Kali Linux and VirtualBox and gave me a solid starting point for developing my practical cybersecurity skills.
+
+## Project Information
+
+- **Program:** Cybersecurity Internship at NETWORKWALKS
+- **Week:** 01
+- **Project Title:** Cybersecurity and Penetration Testing Lab Setup
+- **Repository Platform:** GitHub
+- **Author:** **Bright Arthur**
+- **LinkedIn Profile:** [Add your LinkedIn profile URL here]
