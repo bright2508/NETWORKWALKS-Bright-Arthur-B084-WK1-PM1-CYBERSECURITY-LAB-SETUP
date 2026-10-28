@@ -190,3 +190,19 @@ This command changes the IPv4 Duplicate Address Detection (DAD) timeout for the 
 The appropriate fix depends on the underlying cause. Troubleshooting should include checking the IP address, subnet mask, default gateway, DNS settings, and VirtualBox network configuration before making further changes.
 
 <img width="732" height="567" alt="Image" src="https://github.com/user-attachments/assets/53f748a6-c462-4b48-8d2b-65edbdc4cf62" />
+
+## What I Learned
+
+Working on this project gave me a better understanding of how to build and manage a virtual environment for cybersecurity practice. It also helped me develop practical technical skills and appreciate the importance of proper system configuration and documentation.
+
+The four most important things I learned were:
+
+1. **Setting Up a Virtual Cybersecurity Environment:** I learned how to use VirtualBox to run Kali Linux in a virtual machine, allowing me to practice cybersecurity techniques without changing my computer's main operating system.
+
+2. **Understanding Virtual Networking:** I gained experience creating a NAT Network and connecting my virtual machine to it. This helped me understand how virtual machines communicate and how network settings affect internet access.
+
+3. **Troubleshooting and System Recovery:** I learned the importance of checking IP addresses, gateways, DNS settings, and network connections when problems occur. I also discovered how snapshots can help restore a virtual machine to a previously saved state.
+
+4. **Preparing for Practical Security Testing:** I developed a foundation for future cybersecurity exercises involving network discovery, scanning, and vulnerability assessment. I also learned the value of recording technical procedures and troubleshooting results for future reference.
+
+Overall, this project improved my confidence in working with Kali Linux and VirtualBox and gave me a solid starting point for developing my practical cybersecurity skills.
