@@ -83,3 +83,5 @@ Setting up a separate network helps me create a controlled environment for learn
 After completing these steps, I had a dedicated NAT Network ready to be assigned to my Kali Linux virtual machine and other lab machines.
 
 Note: **A NAT Network allows connected virtual machines to communicate with one another and access external networks. If you intend to isolate your lab completely from external networks, you would need a different network configuration.**
+
+<img width="952" height="927" alt="Image" src="https://github.com/user-attachments/assets/f15c45f8-55e5-4752-945e-5d32aa972c11" />
