@@ -188,3 +188,5 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 This command changes the IPv4 Duplicate Address Detection (DAD) timeout for the specified network connection. However, it is not a general solution for internet connectivity problems.
 
 The appropriate fix depends on the underlying cause. Troubleshooting should include checking the IP address, subnet mask, default gateway, DNS settings, and VirtualBox network configuration before making further changes.
+
+<img width="732" height="567" alt="Image" src="https://github.com/user-attachments/assets/53f748a6-c462-4b48-8d2b-65edbdc4cf62" />
