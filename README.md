@@ -153,3 +153,21 @@ These tests helped me to verify the network configuration and identify any conne
 
 
 <img width="1901" height="942" alt="Image" src="https://github.com/user-attachments/assets/ee48d1a6-e36e-4bb8-a1c4-b5b7e37c926d" />
+
+
+## Step 8: Create a Clean Virtual Machine Snapshot
+
+After completing the initial setup and testing the network connection, I created a snapshot of my Kali Linux virtual machine.
+
+A snapshot saves the virtual machine's state at a specific point in time. It provides a convenient way to return to a previous state if a future experiment or configuration change causes problems.
+
+### Steps to Create the Snapshot
+
+1. Shut down Kali Linux or prepare the virtual machine for snapshot creation.
+2. Open VirtualBox and select the Kali Linux virtual machine.
+3. Navigate to the **Snapshots** view.
+4. Select the option to create a new snapshot.
+5. Give the snapshot a clear and descriptive name, such as `Clean Kali Linux Setup`.
+6. Add a short description if needed, then save the snapshot.
+
+Creating this snapshot provides a clean recovery point that I can return to before performing further cybersecurity experiments in my lab.
