@@ -143,3 +143,10 @@ This configuration was intended to make the Kali Linux virtual machine easier to
 <img width="1917" height="1073" alt="Image" src="https://github.com/user-attachments/assets/5d603f93-e005-45de-b7a3-42ce040af16f" />
 
 <img width="797" height="605" alt="Image" src="https://github.com/user-attachments/assets/acc6c310-cafd-4ab6-aa8c-215d1e5f7339" />
+
+
+## Step 7: Test Network Connectivity
+
+After configuring the network settings, I carried out a few connectivity tests to check whether my Kali Linux virtual machine could communicate with the network and access the internet.
+
+These tests helped me to verify the network configuration and identify any connectivity issues that needed to be resolved before continuing with the cybersecurity lab exercises.
