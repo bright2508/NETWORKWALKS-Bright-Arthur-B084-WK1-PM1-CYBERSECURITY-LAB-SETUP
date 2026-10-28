@@ -85,3 +85,5 @@ After completing these steps, I had a dedicated NAT Network ready to be assigned
 Note: **A NAT Network allows connected virtual machines to communicate with one another and access external networks. If you intend to isolate your lab completely from external networks, you would need a different network configuration.**
 
 <img width="952" height="927" alt="Image" src="https://github.com/user-attachments/assets/f15c45f8-55e5-4752-945e-5d32aa972c11" />
+
+<img width="1258" height="1051" alt="Image" src="https://github.com/user-attachments/assets/4afd0c81-993d-4e80-8c0d-48ed9011169c" />
