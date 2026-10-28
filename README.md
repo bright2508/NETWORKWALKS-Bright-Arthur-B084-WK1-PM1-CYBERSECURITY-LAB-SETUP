@@ -98,3 +98,19 @@ If the downloaded file was a compressed archive, I used 7-Zip to extract its con
 Once the process was complete, Kali Linux was ready to be configured for my cybersecurity lab.
 
 <img width="943" height="923" alt="Image" src="https://github.com/user-attachments/assets/96712431-c80c-49e6-9bdc-d01594209473" />
+
+
+## Step 5: Configure the Virtual Machine
+
+After importing Kali Linux into VirtualBox, I reviewed the virtual machine settings and configured its network adapter to connect to the NAT Network I created earlier.
+
+### Network Adapter Configuration
+
+| Setting | Value |
+|---|---|
+| Network Adapter | Adapter 1 |
+| Attached To | NAT Network |
+| Network Name | NATNetwork |
+| Adapter Type | Intel PRO/1000 MT Desktop |
+
+I saved the changes to apply the network configuration. This setup allows my Kali Linux virtual machine to connect to the designated NAT Network, making it possible to communicate with other virtual machines connected to the same network.
