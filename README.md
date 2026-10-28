@@ -40,6 +40,7 @@ I started by downloading 7-Zip from its official website and installed it on my 
 7-Zip is a file extraction tool that allows me to open and extract compressed files.
 It is particularly useful when working with Kali Linux files downloaded in a `.7z` archive format. After installation, I was ready to extract Kali Linux files whenever needed.
 
+
 <img width="1337" height="732" alt="Image" src="https://github.com/user-attachments/assets/35422e55-65b6-433a-8ce7-6f22902a7580" />
 
 
@@ -48,3 +49,37 @@ It is particularly useful when working with Kali Linux files downloaded in a `.7
 The next step was to download and install VirtualBox on my computer. VirtualBox is a virtualization tool that allows me to run another operating system within my existing computer without replacing the main operating system.
 
 For this project, I used VirtualBox to create and run a Kali Linux virtual machine. Once the installation was complete, I opened VirtualBox and got ready to set up the virtual machine and configure its network settings for the cybersecurity lab.
+<img width="965" height="1022" alt="Image" src="https://github.com/user-attachments/assets/b89f8d18-eb24-4fad-abad-f9f9e33e4cf4" />
+
+Here is a more natural, professional version you can copy directly into your GitHub `README.md` file.
+
+## Step 3: Create a Private NAT Network
+
+I created a dedicated NAT Network in VirtualBox for my cybersecurity lab. This network allows virtual machines connected to it to communicate with one another and access external networks through Network Address Translation (NAT).
+
+Setting up a separate network helps me create a controlled environment for learning cybersecurity and carrying out authorized security testing.
+
+### Network Configuration
+
+| Setting      | Value       |
+| ------------ | ----------- |
+| Network Name | NATNetwork  |
+| IPv4 Prefix  | 10.0.0.0/24 |
+| DHCP         | Enabled     |
+| IPv6         | Disabled    |
+
+### Configuration Steps
+
+1. Open VirtualBox on my computer.
+2. Navigate to the Network settings or Network Manager.
+3. Locate the **NAT Networks** section.
+4. Create a new NAT Network.
+5. Set the network name to `NATNetwork`.
+6. Configure the IPv4 prefix as `10.0.0.0/24`.
+7. Enable DHCP to allow connected virtual machines to receive IP addresses automatically.
+8. Disable IPv6 because it is not required for this lab configuration.
+9. Save the settings to complete the network setup.
+
+After completing these steps, I had a dedicated NAT Network ready to be assigned to my Kali Linux virtual machine and other lab machines.
+
+Note: **A NAT Network allows connected virtual machines to communicate with one another and access external networks. If you intend to isolate your lab completely from external networks, you would need a different network configuration.**
