@@ -137,3 +137,6 @@ Using a consistent IP address makes it easier to identify the Kali Linux machine
 This configuration was intended to make the Kali Linux virtual machine easier to identify and access within the lab network.
 
 Important: Before applying these settings, confirm that `10.0.0.1` is the actual gateway address assigned to your VirtualBox NAT Network and that `10.0.0.2` is available. If DHCP is enabled, reserve the address or configure a suitable static IP to avoid address conflicts.
+
+<img width="1917" height="1073" alt="Image" src="https://github.com/user-attachments/assets/5d603f93-e005-45de-b7a3-42ce040af16f" />
+
