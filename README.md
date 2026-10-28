@@ -214,4 +214,4 @@ Overall, this project improved my confidence in working with Kali Linux and Virt
 - **Project Title:** Cybersecurity and Penetration Testing Lab Setup
 - **Repository Platform:** GitHub
 - **Author:** **Bright Arthur**
-- **LinkedIn Profile:** [Add your LinkedIn profile URL here]
+- **LinkedIn Profile:** www.linkedin.com/in/brightarthur
