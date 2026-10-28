@@ -87,3 +87,5 @@ Note: **A NAT Network allows connected virtual machines to communicate with one 
 <img width="952" height="927" alt="Image" src="https://github.com/user-attachments/assets/f15c45f8-55e5-4752-945e-5d32aa972c11" />
 
 <img width="1258" height="1051" alt="Image" src="https://github.com/user-attachments/assets/4afd0c81-993d-4e80-8c0d-48ed9011169c" />
+
+<img width="943" height="923" alt="Image" src="https://github.com/user-attachments/assets/96712431-c80c-49e6-9bdc-d01594209473" />
