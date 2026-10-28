@@ -150,3 +150,6 @@ This configuration was intended to make the Kali Linux virtual machine easier to
 After configuring the network settings, I carried out a few connectivity tests to check whether my Kali Linux virtual machine could communicate with the network and access the internet.
 
 These tests helped me to verify the network configuration and identify any connectivity issues that needed to be resolved before continuing with the cybersecurity lab exercises.
+
+
+<img width="1901" height="942" alt="Image" src="https://github.com/user-attachments/assets/ee48d1a6-e36e-4bb8-a1c4-b5b7e37c926d" />
