@@ -114,3 +114,5 @@ After importing Kali Linux into VirtualBox, I reviewed the virtual machine setti
 | Adapter Type | Intel PRO/1000 MT Desktop |
 
 I saved the changes to apply the network configuration. This setup allows my Kali Linux virtual machine to connect to the designated NAT Network, making it possible to communicate with other virtual machines connected to the same network.
+
+<img width="957" height="787" alt="Image" src="https://github.com/user-attachments/assets/bfa181fb-853e-46a8-b5db-bb591b8ac389" />
