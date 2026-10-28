@@ -171,3 +171,6 @@ A snapshot saves the virtual machine's state at a specific point in time. It pro
 6. Add a short description if needed, then save the snapshot.
 
 Creating this snapshot provides a clean recovery point that I can return to before performing further cybersecurity experiments in my lab.
+
+
+<img width="917" height="892" alt="Image" src="https://github.com/user-attachments/assets/674306ce-0990-443b-9dcd-3a6689b1ef14" />
