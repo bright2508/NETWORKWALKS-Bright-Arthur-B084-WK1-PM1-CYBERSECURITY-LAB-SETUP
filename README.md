@@ -174,3 +174,17 @@ Creating this snapshot provides a clean recovery point that I can return to befo
 
 
 <img width="917" height="892" alt="Image" src="https://github.com/user-attachments/assets/674306ce-0990-443b-9dcd-3a6689b1ef14" />
+
+Problem Encountered and Solutions
+
+Issue: Internet Connectivity Problem
+
+After manually changing the IPv4 network settings in Kali Linux, I encountered a potential internet connectivity problem. This highlighted the importance of checking the network configuration whenever changes are made.
+
+During troubleshooting, I examined the NetworkManager settings and tried the following command:
+
+sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+
+This command changes the IPv4 Duplicate Address Detection (DAD) timeout for the specified network connection. However, it is not a general solution for internet connectivity problems.
+
+The appropriate fix depends on the underlying cause. Troubleshooting should include checking the IP address, subnet mask, default gateway, DNS settings, and VirtualBox network configuration before making further changes.
